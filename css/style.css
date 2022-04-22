@@ -217,7 +217,7 @@ h6,
     }
 
     .sticky-top.navbar-dark .navbar-brand img {
-        content: url("/assets/img/runnq.png");
+        content: url("../assets/img/runnq.png");
     }
 }
 
